@@ -6,4 +6,4 @@ My first lab in Comp3111 - Software Engineering
 - this is also the first time I have properly made a remote repository and committed changes to it
 
 Here is a screenshot of the IntelliJ window
-![Screenshot of IntelliJ window](Lab1/comp-lab-IntelliJ.png "IntelliJ window")
+![Screenshot of IntelliJ window](comp-lab-IntelliJ.png "IntelliJ window")
