@@ -1,4 +1,5 @@
 package Lab2b;
+import java.util.Arrays;
 
 /* 	Comp3111LEx\Lab2b\mainApp2b.java
 	main Application for Lab2 Exercise 2	*/
