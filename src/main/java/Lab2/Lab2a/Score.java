@@ -1,4 +1,4 @@
-package Lab2a;
+package Lab2.Lab2a;
 
 /* 	Comp3111LEx\Lab2a\Score.java */
 public class Score {

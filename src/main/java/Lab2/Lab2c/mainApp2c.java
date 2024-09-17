@@ -1,6 +1,6 @@
-package Lab2c;
+package Lab2.Lab2c;
 /* Import class library cross package Lab2b */
-import Lab2b.Book;
+import Lab2.Lab2b.Book;
 
 /*  Comp3111LEx\Lab2c\mainApp3c
     main Application for Lab2 Exercise 3    */

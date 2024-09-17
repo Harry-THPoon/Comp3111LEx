@@ -1,4 +1,4 @@
-package Lab2c;
+package Lab2.Lab2c;
 
 /*	Comp3111LEx\Lab2c\MobileComputer.java
 	Inherits from Computer, class library for Lab2 Exercise 3	*/
