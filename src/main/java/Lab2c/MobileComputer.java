@@ -3,7 +3,7 @@ package Lab2c;
 /*	Comp3111LEx\Lab2c\MobileComputer.java
 	Inherits from Computer, class library for Lab2 Exercise 3	*/
 
-public class MobileComputer extends Computer {
+public class MobileComputer extends Computer implements Chargeable{
     private int battery;
     public MobileComputer() {
         secret = "MobileComputer secret";
@@ -17,6 +17,7 @@ public class MobileComputer extends Computer {
         } else
             System.out.println("Running out of battery");
     }
+    @Override
     public void charge() {
         if (battery < 10)
             battery++;
